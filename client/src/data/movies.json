@@ -1,0 +1,538 @@
+[
+  {
+    "id": 1,
+    "title": "Ikkis",
+    "releaseDate": "2026-01-01",
+    "description": "Patriotic war drama based on the life of Second Lt. Arun Khetarpal, a Param Vir Chakra recipient.",
+    "genres": ["War", "Drama", "Biography"],
+    "director": "Sriram Raghavan",
+    "cast": ["Agastya Nanda", "Dharmendra"],
+    "region": "India"
+  },
+  {
+    "id": 2,
+    "title": "Greenland 2: Migration",
+    "releaseDate": "2026-01-09",
+    "description": "Sequel to the 2020 disaster thriller 'Greenland.' The Garrity family continues their fight for survival.",
+    "genres": ["Action", "Thriller", "Disaster"],
+    "director": "Ric Roman Waugh",
+    "cast": ["Gerard Butler", "Morena Baccarin"],
+    "region": "USA"
+  },
+  {
+    "id": 3,
+    "title": "People We Meet on Vacation",
+    "releaseDate": "2026-01-09",
+    "description": "Romantic comedy based on Emily Henry's novel about two best friends and their annual vacation tradition.",
+    "genres": ["Romance", "Comedy"],
+    "director": "Brett Haley",
+    "cast": ["Emily Bader", "Tom Blyth"],
+    "region": "USA",
+    "streaming": "Netflix"
+  },
+  {
+    "id": 4,
+    "title": "The Raja Saab",
+    "releaseDate": "2026-01-09",
+    "description": "Horror-comedy about a man uncovering mysteries in an ancient mansion.",
+    "genres": ["Horror", "Comedy"],
+    "director": "Maruthi",
+    "cast": ["Prabhas", "Sanjay Dutt"],
+    "region": "India"
+  },
+  {
+    "id": 5,
+    "title": "Dead Man's Wire",
+    "releaseDate": "2026-01-16",
+    "description": "Crime thriller involving a high-tech conspiracy.",
+    "genres": ["Crime", "Thriller"],
+    "director": "Gus Van Sant",
+    "cast": ["Bill Skarsgård", "Al Pacino"],
+    "region": "USA"
+  },
+  {
+    "id": 6,
+    "title": "28 Years Later: The Bone Temple",
+    "releaseDate": "2026-01-16",
+    "description": "The third installment in the '28 Days/Weeks Later' horror series.",
+    "genres": ["Horror", "Thriller", "Sci-Fi"],
+    "director": "Danny Boyle",
+    "cast": ["TBA"],
+    "region": "USA/UK"
+  },
+  {
+    "id": 7,
+    "title": "The Rip",
+    "releaseDate": "2026-01-16",
+    "description": "Crime thriller produced by Artists Equity label.",
+    "genres": ["Crime", "Thriller"],
+    "director": "Joe Carnahan",
+    "cast": ["Matt Damon", "Ben Affleck", "Steven Yeun"],
+    "region": "USA",
+    "streaming": "Netflix"
+  },
+  {
+    "id": 8,
+    "title": "Rahu Ketu",
+    "releaseDate": "2026-01-16",
+    "description": "Buddy comedy exploring themes of luck and superstition, by the team behind Fukrey.",
+    "genres": ["Comedy"],
+    "director": "Vipul Vig",
+    "cast": ["Pulkit Samrat", "Varun Sharma"],
+    "region": "India"
+  },
+  {
+    "id": 9,
+    "title": "Happy Patel: Khatarnak Jasoos",
+    "releaseDate": "2026-01-16",
+    "description": "Spy spoof in which a bumbling British-Indian spy embarks on a mission in Goa.",
+    "genres": ["Comedy", "Action", "Spy"],
+    "director": "Vir Das & Kavi Shastri",
+    "cast": ["Vir Das", "Mona Singh"],
+    "region": "India"
+  },
+  {
+    "id": 10,
+    "title": "Return to Silent Hill",
+    "releaseDate": "2026-01-23",
+    "description": "Horror film sequel adapted from the 'Silent Hill 2' video game.",
+    "genres": ["Horror", "Thriller"],
+    "director": "Christophe Gans",
+    "cast": ["Hannah Emily Anderson", "Jeremy Irvine"],
+    "region": "USA/France"
+  },
+  {
+    "id": 11,
+    "title": "Border 2",
+    "releaseDate": "2026-01-23",
+    "description": "Sequel to the 1997 war epic Border, timed for India's Republic Day weekend.",
+    "genres": ["War", "Action", "Drama"],
+    "director": "Anurag Singh",
+    "cast": ["Sunny Deol", "Varun Dhawan", "Diljit Dosanjh"],
+    "region": "India"
+  },
+  {
+    "id": 12,
+    "title": "The Wrecking Crew",
+    "releaseDate": "2026-01-28",
+    "description": "Action-comedy about half-brothers teaming up, produced by MGM/Amazon Studios.",
+    "genres": ["Action", "Comedy"],
+    "director": "Ángel Manuel Soto",
+    "cast": ["Jason Momoa", "Dave Bautista"],
+    "region": "USA",
+    "streaming": "Prime Video"
+  },
+  {
+    "id": 13,
+    "title": "Gandhi Talks",
+    "releaseDate": "2026-01-30",
+    "description": "Experimental silent black comedy with music by A.R. Rahman, satirizing modern greed vs. Gandhian values.",
+    "genres": ["Comedy", "Drama"],
+    "director": "Kishor Belekar",
+    "cast": ["Vijay Sethupathi", "Arvind Swamy", "Aditi Rao Hydari"],
+    "region": "India"
+  },
+  {
+    "id": 14,
+    "title": "Wuthering Heights",
+    "releaseDate": "2026-02-13",
+    "description": "New adaptation of the classic Emily Brontë novel.",
+    "genres": ["Drama", "Romance"],
+    "director": "Emerald Fennell",
+    "cast": ["Margot Robbie", "Jacob Elordi"],
+    "region": "USA/UK"
+  },
+  {
+    "id": 15,
+    "title": "Crime 101",
+    "releaseDate": "2026-02-13",
+    "description": "Heist thriller based on Don Winslow's novella.",
+    "genres": ["Crime", "Thriller", "Heist"],
+    "director": "Bart Layton",
+    "cast": ["Chris Hemsworth", "Mark Ruffalo", "Halle Berry"],
+    "region": "USA"
+  },
+  {
+    "id": 16,
+    "title": "'O' Romeo",
+    "releaseDate": "2026-02-13",
+    "description": "Intense romantic drama reimagining Shakespearean tragedy in a gritty gangster setting.",
+    "genres": ["Drama", "Romance", "Crime"],
+    "director": "Vishal Bhardwaj",
+    "cast": ["Shahid Kapoor", "Triptii Dimri"],
+    "region": "India"
+  },
+  {
+    "id": 17,
+    "title": "Tu Yaa Main",
+    "releaseDate": "2026-02-13",
+    "description": "Thriller set on a Valentine's getaway gone wrong in crocodile-infested backwaters.",
+    "genres": ["Thriller", "Horror"],
+    "director": "Bejoy Nambiar",
+    "cast": ["Adarsh Gourav", "Shanaya Kapoor"],
+    "region": "India"
+  },
+  {
+    "id": 18,
+    "title": "Do Deewane Seher Mein",
+    "releaseDate": "2026-02-20",
+    "description": "Soulful urban romance capturing the struggles of young lovers in a modern city.",
+    "genres": ["Romance", "Drama"],
+    "director": "Ravi Udyawar",
+    "cast": ["Siddhant Chaturvedi", "Mrunal Thakur"],
+    "region": "India"
+  },
+  {
+    "id": 19,
+    "title": "Scream 7",
+    "releaseDate": "2026-02-27",
+    "description": "Next entry in the popular slasher franchise.",
+    "genres": ["Horror", "Thriller", "Slasher"],
+    "director": "Christopher Landon",
+    "cast": ["Courteney Cox"],
+    "region": "USA"
+  },
+  {
+    "id": 20,
+    "title": "In the Blink of an Eye",
+    "releaseDate": "2026-02-27",
+    "description": "Ambitious sci-fi drama spanning millennia; premieres at Sundance before streaming on Hulu.",
+    "genres": ["Sci-Fi", "Drama"],
+    "director": "Andrew Stanton",
+    "cast": ["Kate McKinnon", "Rashida Jones", "Daveed Diggs"],
+    "region": "USA",
+    "streaming": "Hulu"
+  },
+  {
+    "id": 21,
+    "title": "Mardaani 3",
+    "releaseDate": "2026-02-27",
+    "description": "Third installment of the crime thriller franchise, with Rani Mukerji returning as fearless cop Shivani Shivaji Roy.",
+    "genres": ["Crime", "Thriller", "Action"],
+    "director": "Abhiraj Minawala",
+    "cast": ["Rani Mukerji"],
+    "region": "India"
+  },
+  {
+    "id": 22,
+    "title": "Pati Patni Aur Woh Do",
+    "releaseDate": "2026-03-04",
+    "description": "Sequel to the 2019 comedy, a humorous take on modern marriage and infidelity.",
+    "genres": ["Comedy", "Romance"],
+    "director": "Mudassar Aziz",
+    "cast": ["Ayushmann Khurrana", "Rakul Preet Singh", "Pankaj Tripathi"],
+    "region": "India"
+  },
+  {
+    "id": 23,
+    "title": "Dhurandhar 2",
+    "releaseDate": "2026-03-19",
+    "description": "High-stakes spy thriller sequel by the director of Uri: The Surgical Strike, based on real intelligence operations.",
+    "genres": ["Action", "Thriller", "Spy"],
+    "director": "Aditya Dhar",
+    "cast": ["Ranveer Singh", "Akshaye Khanna", "Sanjay Dutt", "R. Madhavan"],
+    "region": "India"
+  },
+  {
+    "id": 24,
+    "title": "Toxic",
+    "releaseDate": "2026-03-19",
+    "description": "Period gangster drama (1940s–70s) described as a dark 'fairy tale for grown-ups,' exploring the drug underworld's rise.",
+    "genres": ["Crime", "Drama", "Thriller"],
+    "director": "Geetu Mohandas",
+    "cast": ["Yash", "Kiara Advani", "Nayanthara"],
+    "region": "India"
+  },
+  {
+    "id": 25,
+    "title": "Project Hail Mary",
+    "releaseDate": "2026-03-20",
+    "description": "Big-budget sci-fi adventure based on Andy Weir's novel, about an astronaut's mission to save Earth.",
+    "genres": ["Sci-Fi", "Adventure", "Drama"],
+    "director": "Phil Lord & Christopher Miller",
+    "cast": ["Ryan Gosling"],
+    "region": "USA"
+  },
+  {
+    "id": 26,
+    "title": "Peaky Blinders: The Immortal Man",
+    "releaseDate": "2026-03-20",
+    "description": "A feature-length continuation of the British crime saga.",
+    "genres": ["Crime", "Drama"],
+    "director": "Steven Knight",
+    "cast": ["Cillian Murphy", "Paul Anderson"],
+    "region": "UK/USA",
+    "streaming": "Netflix"
+  },
+  {
+    "id": 27,
+    "title": "Love and War",
+    "releaseDate": "2026-03-20",
+    "description": "Lavish period romance-drama set against a backdrop of conflict, with Bhansali's signature grand visual style.",
+    "genres": ["Romance", "Drama", "War"],
+    "director": "Sanjay Leela Bhansali",
+    "cast": ["Ranbir Kapoor", "Alia Bhatt", "Vicky Kaushal"],
+    "region": "India"
+  },
+  {
+    "id": 28,
+    "title": "Bhooth Bangla",
+    "releaseDate": "2026-04-02",
+    "description": "Horror-comedy uniting Akshay with his classic comic co-stars, about a man inheriting a haunted mansion.",
+    "genres": ["Horror", "Comedy"],
+    "director": "Priyadarshan",
+    "cast": ["Akshay Kumar", "Paresh Rawal", "Rajpal Yadav"],
+    "region": "India"
+  },
+  {
+    "id": 29,
+    "title": "Drishyam 3",
+    "releaseDate": "2026-04-02",
+    "description": "The concluding chapter of the acclaimed Malayalam crime thriller franchise – Mohanlal returns as Georgekutty.",
+    "genres": ["Crime", "Thriller", "Drama"],
+    "director": "Jeethu Joseph",
+    "cast": ["Mohanlal", "Meena"],
+    "region": "India"
+  },
+  {
+    "id": 30,
+    "title": "The Super Mario Galaxy Movie",
+    "releaseDate": "2026-04-03",
+    "description": "Animated family adventure expanding Nintendo's Mario franchise into the cosmos.",
+    "genres": ["Animation", "Adventure", "Family"],
+    "director": "Illumination",
+    "cast": ["Chris Pratt", "Anya Taylor-Joy", "Jack Black"],
+    "region": "USA"
+  },
+  {
+    "id": 31,
+    "title": "You, Me & Tuscany",
+    "releaseDate": "2026-04-10",
+    "description": "Romantic comedy set in Italy.",
+    "genres": ["Romance", "Comedy"],
+    "director": "Brandon Camp",
+    "cast": ["Regé-Jean Page", "Halle Bailey"],
+    "region": "USA"
+  },
+  {
+    "id": 32,
+    "title": "Alpha",
+    "releaseDate": "2026-04-17",
+    "description": "High-octane action thriller featuring two female super-agents on a deadly mission.",
+    "genres": ["Action", "Thriller"],
+    "director": "Shiv Rawail",
+    "cast": ["Alia Bhatt", "Sharvari Wagh", "Bobby Deol"],
+    "region": "India"
+  },
+  {
+    "id": 33,
+    "title": "Battle of Galwan",
+    "releaseDate": "2026-04-17",
+    "description": "Patriotic war drama recreating the 2020 Galwan Valley border clash, focusing on the soldiers' bravery.",
+    "genres": ["War", "Action", "Drama"],
+    "director": "Apoorva Lakhia",
+    "cast": ["Salman Khan"],
+    "region": "India"
+  },
+  {
+    "id": 34,
+    "title": "Masters of the Universe",
+    "releaseDate": "2026-06-05",
+    "description": "Live-action fantasy based on the classic Mattel He-Man franchise.",
+    "genres": ["Action", "Fantasy", "Adventure"],
+    "director": "Adam & Aaron Nee",
+    "cast": ["Kyle Allen", "Nicholas Galitzine"],
+    "region": "USA"
+  },
+  {
+    "id": 35,
+    "title": "Toy Story 5",
+    "releaseDate": "2026-06-19",
+    "description": "Fifth installment of the beloved animated series.",
+    "genres": ["Animation", "Adventure", "Comedy"],
+    "director": "Pete Docter",
+    "cast": ["Tom Hanks", "Tim Allen"],
+    "region": "USA"
+  },
+  {
+    "id": 36,
+    "title": "Supergirl",
+    "releaseDate": "2026-06-26",
+    "description": "DC Comics superhero film focusing on Kara Zor-El.",
+    "genres": ["Superhero", "Action", "Sci-Fi"],
+    "director": "Craig Gillespie",
+    "cast": ["Milly Alcock"],
+    "region": "USA"
+  },
+  {
+    "id": 37,
+    "title": "Minions 3",
+    "releaseDate": "2026-07-01",
+    "description": "Third 'Minions' spin-off in the Despicable Me franchise.",
+    "genres": ["Animation", "Comedy", "Family"],
+    "director": "Kyle Balda & Brad Ableson",
+    "cast": ["Pierre Coffin", "Steve Carell"],
+    "region": "USA"
+  },
+  {
+    "id": 38,
+    "title": "Moana (Live-Action)",
+    "releaseDate": "2026-07-10",
+    "description": "Live-action reimagining of Disney's 2016 animated hit, set to sail on the original film's 10th anniversary.",
+    "genres": ["Adventure", "Musical", "Fantasy"],
+    "director": "Thomas Kail",
+    "cast": ["Catherina Laga'aia", "Dwayne Johnson"],
+    "region": "USA"
+  },
+  {
+    "id": 39,
+    "title": "The Odyssey",
+    "releaseDate": "2026-07-17",
+    "description": "Epic IMAX-filmed adaptation of Homer's Odyssey, Nolan's first film after 'Oppenheimer.'",
+    "genres": ["Epic", "Adventure", "Drama"],
+    "director": "Christopher Nolan",
+    "cast": ["Matt Damon", "Tom Holland", "Anne Hathaway", "Robert Pattinson"],
+    "region": "USA"
+  },
+  {
+    "id": 40,
+    "title": "Spider-Man: Brand New Day",
+    "releaseDate": "2026-07-31",
+    "description": "Next Spider-Man film in the MCU, rumored to adapt the 'Brand New Day' storyline.",
+    "genres": ["Superhero", "Action", "Adventure"],
+    "director": "Jon Watts",
+    "cast": ["Tom Holland"],
+    "region": "USA"
+  },
+  {
+    "id": 41,
+    "title": "Coyote vs. Acme",
+    "releaseDate": "2026-08-28",
+    "description": "Live-action/animated comedy pitting Looney Tunes' Wile E. Coyote against ACME Corporation.",
+    "genres": ["Comedy", "Animation", "Family"],
+    "director": "Dave Green",
+    "cast": ["John Cena", "Will Forte"],
+    "region": "USA"
+  },
+  {
+    "id": 42,
+    "title": "Drishyam 3 (Hindi)",
+    "releaseDate": "2026-10-02",
+    "description": "Hindi adaptation of Drishyam 3, following the Malayalam original's success.",
+    "genres": ["Crime", "Thriller", "Drama"],
+    "director": "TBA",
+    "cast": ["Ajay Devgn"],
+    "region": "India"
+  },
+  {
+    "id": 43,
+    "title": "Street Fighter",
+    "releaseDate": "2026-10-16",
+    "description": "Martial arts action film based on Capcom's iconic video game series.",
+    "genres": ["Action", "Martial Arts"],
+    "director": "Danny & Michael Philippou",
+    "cast": ["TBA"],
+    "region": "USA"
+  },
+  {
+    "id": 44,
+    "title": "Ramayana (Part 1)",
+    "releaseDate": "2026-11-08",
+    "description": "Epic two-part adaptation of the Ramayana with music by A.R. Rahman and Hans Zimmer. Arrives Diwali 2026.",
+    "genres": ["Epic", "Fantasy", "Drama"],
+    "director": "Nitesh Tiwari",
+    "cast": ["Ranbir Kapoor", "Sai Pallavi", "Yash"],
+    "region": "India"
+  },
+  {
+    "id": 45,
+    "title": "The Hunger Games: Sunrise on the Reaping",
+    "releaseDate": "2026-11-20",
+    "description": "A new Hunger Games prequel set 24 years before Katniss's story, centering on the 50th Hunger Games with a young Haymitch.",
+    "genres": ["Sci-Fi", "Action", "Drama"],
+    "director": "Francis Lawrence",
+    "cast": ["Joseph Zada", "Zoe Renee"],
+    "region": "USA"
+  },
+  {
+    "id": 46,
+    "title": "Narnia",
+    "releaseDate": "2026-11-26",
+    "description": "Netflix's highly anticipated Chronicles of Narnia film will debut in IMAX theaters before streaming on Netflix.",
+    "genres": ["Fantasy", "Adventure", "Family"],
+    "director": "Greta Gerwig",
+    "cast": ["TBA"],
+    "region": "USA/UK",
+    "streaming": "Netflix"
+  },
+  {
+    "id": 47,
+    "title": "Violent Night 2",
+    "releaseDate": "2026-12-04",
+    "description": "Action-comedy sequel featuring David Harbour's Santa vigilante, timed for the holiday season.",
+    "genres": ["Action", "Comedy", "Holiday"],
+    "director": "Tommy Wirkola",
+    "cast": ["David Harbour"],
+    "region": "USA"
+  },
+  {
+    "id": 48,
+    "title": "Jumanji 3",
+    "releaseDate": "2026-12-11",
+    "description": "Third film in the modern Jumanji series continuing the high-concept adventure.",
+    "genres": ["Adventure", "Comedy", "Fantasy"],
+    "director": "Jake Kasdan",
+    "cast": ["Dwayne Johnson", "Kevin Hart", "Karen Gillan", "Jack Black"],
+    "region": "USA"
+  },
+  {
+    "id": 49,
+    "title": "Avengers: Doomsday",
+    "releaseDate": "2026-12-18",
+    "description": "Massive ensemble superhero film – the next Avengers installment featuring Doctor Doom.",
+    "genres": ["Superhero", "Action", "Sci-Fi"],
+    "director": "Joe & Anthony Russo",
+    "cast": ["Robert Downey Jr.", "Chris Hemsworth", "Pedro Pascal"],
+    "region": "USA"
+  },
+  {
+    "id": 50,
+    "title": "Dune: Part Three",
+    "releaseDate": "2026-12-18",
+    "description": "Conclusion of the Dune trilogy, expected to adapt Frank Herbert's Dune Messiah.",
+    "genres": ["Sci-Fi", "Epic", "Drama"],
+    "director": "Denis Villeneuve",
+    "cast": ["Timothée Chalamet", "Zendaya"],
+    "region": "USA"
+  },
+  {
+    "id": 51,
+    "title": "The Angry Birds Movie 3",
+    "releaseDate": "2026-12-23",
+    "description": "Animated family film continuing the popular game-based franchise.",
+    "genres": ["Animation", "Comedy", "Family"],
+    "director": "Thurop Van Orman & John Rice",
+    "cast": ["Jason Sudeikis", "Josh Gad"],
+    "region": "USA"
+  },
+  {
+    "id": 52,
+    "title": "King",
+    "releaseDate": "2026-12-25",
+    "description": "Big-budget action thriller reuniting Shah Rukh Khan and the Pathaan director, locked for Christmas 2026.",
+    "genres": ["Action", "Thriller"],
+    "director": "Siddharth Anand",
+    "cast": ["Shah Rukh Khan", "Deepika Padukone", "Rani Mukerji", "Abhishek Bachchan"],
+    "region": "India"
+  },
+  {
+    "id": 53,
+    "title": "Werwulf",
+    "releaseDate": "2026-12-25",
+    "description": "A dark reimagining of classic werewolf lore, positioned as a Christmas Day horror release.",
+    "genres": ["Horror", "Fantasy"],
+    "director": "Robert Eggers",
+    "cast": ["Oscar Isaac"],
+    "region": "USA"
+  }
+]

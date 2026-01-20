@@ -1,33 +1,14 @@
-import { useState, useEffect } from 'react'
+import { useState } from 'react'
 import Header from './components/Header'
 import MovieGrid from './components/MovieGrid'
 import CountdownModal from './components/CountdownModal'
+import moviesData from './data/movies.json'
 
 function App() {
-  const [movies, setMovies] = useState([])
   const [searchTerm, setSearchTerm] = useState('')
   const [selectedMovie, setSelectedMovie] = useState(null)
-  const [loading, setLoading] = useState(true)
-  const [error, setError] = useState(null)
 
-  useEffect(() => {
-    fetchMovies()
-  }, [])
-
-  const fetchMovies = async () => {
-    try {
-      const response = await fetch('http://localhost:3001/api/movies')
-      if (!response.ok) throw new Error('Failed to fetch movies')
-      const data = await response.json()
-      setMovies(data)
-      setLoading(false)
-    } catch (err) {
-      setError(err.message)
-      setLoading(false)
-    }
-  }
-
-  const filteredMovies = movies.filter(movie => {
+  const filteredMovies = moviesData.filter(movie => {
     const today = new Date()
     today.setHours(0, 0, 0, 0)
     const releaseDate = new Date(movie.releaseDate)
@@ -42,22 +23,6 @@ function App() {
 
   const handleCloseModal = () => {
     setSelectedMovie(null)
-  }
-
-  if (loading) {
-    return (
-      <div className="app">
-        <div className="loading">Loading movies...</div>
-      </div>
-    )
-  }
-
-  if (error) {
-    return (
-      <div className="app">
-        <div className="error">Error: {error}</div>
-      </div>
-    )
   }
 
   return (
